@@ -1,0 +1,10 @@
+In order to run the code
+ 
+***** for webcam ****
+  
+	python finalcode.py
+
+
+***** for image ****
+	
+	python finalcode.py --image=coco-1.jpg
